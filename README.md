@@ -8,7 +8,7 @@ Você pode baixá-lo e instalá-lo em qualquer dispositivo android.
 Acesso restrito 
 
 ## Escopo
-![Ares](https://zeus.tiote.com.br/imgs/ares.png)
+![Ares](https://github.com/luanbiao/ares/blob/main/Escopo%20Ares.png)
 
 ## Telas
 
