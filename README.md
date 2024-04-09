@@ -8,6 +8,9 @@ Você pode baixá-lo e instalá-lo em qualquer dispositivo android.
 Acesso restrito 
 
 ## Escopo
-![Ares](https://desesquecedor.com.br/img/logo2.webp)
+![Ares](https://zeus.tiote.com.br/imgs/ares.png)
 
-## 
+## Telas
+
+## Próximas Melhorias
+
