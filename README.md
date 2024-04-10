@@ -1,6 +1,6 @@
 # Ares
 
-![Ares](https://zeus.tiote.com.br/imgs/ares.png)
+<img src="https://zeus.tiote.com.br/imgs/ares.png" width="350">
 
 Aplicativo de coleta de dados multi-usuário usando como Base de Dados o GSheets. 
 
