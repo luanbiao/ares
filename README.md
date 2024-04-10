@@ -15,17 +15,28 @@ Acesso restrito
 
 ## Telas
 
-### Login
-<img src="https://github.com/luanbiao/ares/blob/main/telas/ares-login.png" width="350">
+<div style="display: flex; flex-wrap: wrap;">
+    <div style="flex: 1; margin-right: 10px;">
+        <h3>Login</h3>
+        <img src="https://github.com/luanbiao/ares/blob/main/telas/ares-login.png" width="350">
+    </div>
+    <div style="flex: 1; margin-left: 10px;">
+        <h3>Home</h3>
+        <img src="https://github.com/luanbiao/ares/blob/main/telas/ares-home.png" width="350">
+    </div>
+</div>
 
-### Home
-<img src="https://github.com/luanbiao/ares/blob/main/telas/ares-home.png" width="350">
+<div style="display: flex; flex-wrap: wrap;">
+    <div style="flex: 1; margin-right: 10px;">
+        <h3>Lista</h3>
+        <img src="https://github.com/luanbiao/ares/blob/main/telas/ares-lista.png" width="350">
+    </div>
+    <div style="flex: 1; margin-left: 10px;">
+        <h3>Cadastro</h3>
+        <img src="https://github.com/luanbiao/ares/blob/main/telas/ares-cadastro.png" width="350">
+    </div>
+</div>
 
-### Lista
-<img src="https://github.com/luanbiao/ares/blob/main/telas/ares-lista.png" width="350">
-
-### Cadastro
-<img src="https://github.com/luanbiao/ares/blob/main/telas/ares-cadastro.png" width="350">
 
 
 
