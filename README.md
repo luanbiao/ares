@@ -16,13 +16,18 @@ Acesso restrito
 ## Telas
 
 ### Login
-![Escopo](https://github.com/luanbiao/ares/blob/main/telas/ares-login.png)
+<img src="https://github.com/luanbiao/ares/blob/main/telas/ares-login.png" width="200" height="150">
 
 ### Home
-![Escopo](https://github.com/luanbiao/ares/blob/main/telas/ares-home.png)
+<img src="https://github.com/luanbiao/ares/blob/main/telas/ares-home.png" width="400" height="">
 
 ### Lista
-![Escopo](https://github.com/luanbiao/ares/blob/main/telas/ares-lista.png)
+<img src="https://github.com/luanbiao/ares/blob/main/telas/ares-lista.png" width="50%" height="">
 
 ### Cadastro
-![Escopo](https://github.com/luanbiao/ares/blob/main/telas/ares-cadastro.png)
+<img src="https://github.com/luanbiao/ares/blob/main/telas/ares-cadastro.png" width="" height="300">
+
+
+
+
+
