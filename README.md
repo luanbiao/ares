@@ -15,5 +15,14 @@ Acesso restrito
 
 ## Telas
 
-## Próximas Melhorias
+### Login
+![Escopo](https://github.com/luanbiao/ares/blob/main/telas/ares-login.png)
 
+### Home
+![Escopo](https://github.com/luanbiao/ares/blob/main/telas/ares-home.png)
+
+### Lista
+![Escopo](https://github.com/luanbiao/ares/blob/main/telas/ares-lista.png)
+
+### Cadastro
+![Escopo](https://github.com/luanbiao/ares/blob/main/telas/ares-cadastro.png)
